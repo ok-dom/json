@@ -1,0 +1,20 @@
+{
+    "foodOptions":[
+    {
+      "name": "Белки",
+      "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-001.png"
+    },
+    {
+      "name": "Бургер",
+      "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-002.png"
+    },
+    {
+      "name": "Быстрое питание",
+      "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-003.png"
+    },
+    {
+      "name": "Салаты",
+      "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-004.png"
+    }
+    ]
+}
