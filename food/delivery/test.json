@@ -1,10 +1,8 @@
 {
     "menu":[
-		{
-		  "title": "Мясо",
-		  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-001.png",
-		  "products":[
-			    {
+			        {
+				  "category": "Мясо",
+		          "icon": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-001.png",
 				  "name": "Курица тандури",
 				  "price": "96.00",
 				  "rate": "4.9",
@@ -12,6 +10,8 @@
 				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-001.png"
 				},
 				{
+				  "category": "Бургер",
+		          "icon": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-002.png",
 				  "name": "Лосось",
 				  "price": "40.50",
 				  "rate": "4.5",
@@ -19,6 +19,8 @@
 				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-002.png"
 				},
 				{
+				  "category": "Быстро",
+		          "icon": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-003.png",
 				  "name": "Рис и мясо",
 				  "price": "130.00",
 				  "rate": "4.8",
@@ -26,6 +28,8 @@
 				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-003.png"
 				},
 				{
+				  "category": "Салаты",
+		          "icon": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-004.png",
 				  "name": "Веганская еда",
 				  "price": "400.00",
 				  "rate": "4.2",
@@ -33,136 +37,13 @@
 				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-004.png"
 				},
 				{
+				  "category": "Быстро",
+		          "icon": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-003.png",
 				  "name": "Богатая еда",
 				  "price": "1000.00",
 				  "rate": "4.6",
 				  "clients": "10",
 				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-005.png"
 				}
-		    ]
-		},
-		{
-		  "title": "Бургер",
-		  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-002.png",
-		  "products":[
-			    {
-				  "name": "Курица тандури",
-				  "price": "96.00",
-				  "rate": "4.9",
-				  "clients": "200",
-				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-001.png"
-				},
-				{
-				  "name": "Лосось",
-				  "price": "40.50",
-				  "rate": "4.5",
-				  "clients": "168",
-				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-002.png"
-				},
-				{
-				  "name": "Рис и мясо",
-				  "price": "130.00",
-				  "rate": "4.8",
-				  "clients": "150",
-				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-003.png"
-				},
-				{
-				  "name": "Веганская еда",
-				  "price": "400.00",
-				  "rate": "4.2",
-				  "clients": "150",
-				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-004.png"
-				},
-				{
-				  "name": "Богатая еда",
-				  "price": "1000.00",
-				  "rate": "4.6",
-				  "clients": "10",
-				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-005.png"
-				}
-		    ]
-		},
-		{
-		  "title": "Быстро",
-		  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-003.png",
-		  "products":[
-			    {
-				  "name": "Курица тандури",
-				  "price": "96.00",
-				  "rate": "4.9",
-				  "clients": "200",
-				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-001.png"
-				},
-				{
-				  "name": "Лосось",
-				  "price": "40.50",
-				  "rate": "4.5",
-				  "clients": "168",
-				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-002.png"
-				},
-				{
-				  "name": "Рис и мясо",
-				  "price": "130.00",
-				  "rate": "4.8",
-				  "clients": "150",
-				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-003.png"
-				},
-				{
-				  "name": "Веганская еда",
-				  "price": "400.00",
-				  "rate": "4.2",
-				  "clients": "150",
-				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-004.png"
-				},
-				{
-				  "name": "Богатая еда",
-				  "price": "1000.00",
-				  "rate": "4.6",
-				  "clients": "10",
-				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-005.png"
-				}
-		    ]
-		},
-		{
-		  "title": "Салаты",
-		  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-004.png",
-		  "products":[
-			    {
-				  "name": "Курица тандури",
-				  "price": "96.00",
-				  "rate": "4.9",
-				  "clients": "200",
-				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-001.png"
-				},
-				{
-				  "name": "Лосось",
-				  "price": "40.50",
-				  "rate": "4.5",
-				  "clients": "168",
-				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-002.png"
-				},
-				{
-				  "name": "Рис и мясо",
-				  "price": "130.00",
-				  "rate": "4.8",
-				  "clients": "150",
-				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-003.png"
-				},
-				{
-				  "name": "Веганская еда",
-				  "price": "400.00",
-				  "rate": "4.2",
-				  "clients": "150",
-				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-004.png"
-				},
-				{
-				  "name": "Богатая еда",
-				  "price": "1000.00",
-				  "rate": "4.6",
-				  "clients": "10",
-				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-005.png"
-				}
-		    ]
-		}
-    ]
+            ]
 }
