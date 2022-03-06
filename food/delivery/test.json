@@ -15,10 +15,6 @@
 				{
 				  "category": "Салаты",
 		          "icon": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-004.png"
-				},
-				{
-				  "category": "Быстро",
-		          "icon": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-003.png"
 				}
             ],
             "products":[
