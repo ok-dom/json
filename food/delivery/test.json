@@ -22,31 +22,36 @@
 				  "category": "Мясо",
 		          "title": "Курица тандури",
 				  "price": "96.00",
-				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-001.png"
+				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-001.png",
+				  "description":"Morbi sollicitudin lorem vitae nisi iaculis,sit amet suscipit orci mollis. Ut dictum lectus eget diam vestibulum, at eleifend felis mattis. Sed molestie congue magna at venenatis. In mollis felis ut consectetur consequat."
 				},
 				{
 				  "category": "Бургер",
 		          "title": "Лосось",
 				  "price": "40.50",
-				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-002.png"
+				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-002.png",
+			          "description":"Morbi sollicitudin lorem vitae nisi iaculis,sit amet suscipit orci mollis. Ut dictum lectus eget diam vestibulum, at eleifend felis mattis. Sed molestie congue magna at venenatis. In mollis felis ut consectetur consequat."
 				},
 				{
 				  "category": "Быстро",
 		          "title": "Рис и мясо",
 				  "price": "130.00",
-				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-003.png"
+				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-003.png",
+				"description":"Morbi sollicitudin lorem vitae nisi iaculis,sit amet suscipit orci mollis. Ut dictum lectus eget diam vestibulum, at eleifend felis mattis. Sed molestie congue magna at venenatis. In mollis felis ut consectetur consequat."
 				},
 				{
 				  "category": "Салаты",
 		          "title": "Веганская еда",
 				  "price": "400.00",
-				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-004.png"
+				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-004.png",
+				"description":"Morbi sollicitudin lorem vitae nisi iaculis,sit amet suscipit orci mollis. Ut dictum lectus eget diam vestibulum, at eleifend felis mattis. Sed molestie congue magna at venenatis. In mollis felis ut consectetur consequat."
 				},
 				{
 				  "category": "Быстро",
 		          "title": "Богатая еда",
 				  "price": "1000.00",
-				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-005.png"
+				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-005.png",
+				"description":"Morbi sollicitudin lorem vitae nisi iaculis,sit amet suscipit orci mollis. Ut dictum lectus eget diam vestibulum, at eleifend felis mattis. Sed molestie congue magna at venenatis. In mollis felis ut consectetur consequat."
 				}
             ],
 	"topproduct":[
@@ -54,7 +59,8 @@
 		          "category": "Мясо",
 		          "title": "Курица тандури",
 			  "price": "96.00",
-			  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-001.png"
+			  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-001.png",
+			   "description":"Morbi sollicitudin lorem vitae nisi iaculis,sit amet suscipit orci mollis. Ut dictum lectus eget diam vestibulum, at eleifend felis mattis. Sed molestie congue magna at venenatis. In mollis felis ut consectetur consequat."
 		     }
 	]
 }
