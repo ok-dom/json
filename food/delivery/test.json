@@ -1,37 +1,54 @@
 {
-    "menu":[
+            "categories":[
 			    {
 				  "category": "Мясо",
-		          "icon": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-001.png",
-				  "title": "Курица тандури",
+		          "icon": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-001.png"
+				},
+				{
+				  "category": "Бургер",
+		          "icon": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-002.png"
+				},
+				{
+				  "category": "Быстро",
+		          "icon": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-003.png"
+				},
+				{
+				  "category": "Салаты",
+		          "icon": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-004.png"
+				},
+				{
+				  "category": "Быстро",
+		          "icon": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-003.png"
+				}
+            ],
+            "products":[
+			    {
+				  "category": "Мясо",
+		          "title": "Курица тандури",
 				  "price": "96.00",
 				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-001.png"
 				},
 				{
 				  "category": "Бургер",
-		          "icon": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-002.png",
-				  "title": "Лосось",
+		          "title": "Лосось",
 				  "price": "40.50",
 				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-002.png"
 				},
 				{
 				  "category": "Быстро",
-		          "icon": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-003.png",
-				  "title": "Рис и мясо",
+		          "title": "Рис и мясо",
 				  "price": "130.00",
 				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-003.png"
 				},
 				{
 				  "category": "Салаты",
-		          "icon": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-004.png",
-				  "title": "Веганская еда",
+		          "title": "Веганская еда",
 				  "price": "400.00",
 				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-004.png"
 				},
 				{
 				  "category": "Быстро",
-		          "icon": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-003.png",
-				  "title": "Богатая еда",
+		          "title": "Богатая еда",
 				  "price": "1000.00",
 				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-005.png"
 				}
