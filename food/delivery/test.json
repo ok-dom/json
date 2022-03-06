@@ -48,5 +48,13 @@
 				  "price": "1000.00",
 				  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-005.png"
 				}
-            ]
+            ],
+	"topproduct":[
+	           {
+		          "category": "Мясо",
+		          "title": "Курица тандури",
+			  "price": "96.00",
+			  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-001.png"
+		     }
+	]
 }
