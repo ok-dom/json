@@ -57,7 +57,7 @@
 	"topproduct":[
 	           {
 		          "category": "topproduct",
-		          "title": "Курица тандури",
+		          "title": "Курица",
 			  "price": "96.00",
 			  "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-001.png",
 			   "description":"Morbi sollicitudin lorem vitae nisi iaculis,sit amet suscipit orci mollis. Ut dictum lectus eget diam vestibulum, at eleifend felis mattis. Sed molestie congue magna at venenatis. In mollis felis ut consectetur consequat."
