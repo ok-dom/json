@@ -69,7 +69,7 @@
             "title": "title",
             "image": "image",
             "description": "description",
-			"link": "link",
+	    "link": "link",
             "tel": "tel"
         },
 		{
@@ -77,23 +77,23 @@
             "title": "title",
             "image": "image",
             "description": "description",
-			"link": "link",
+	    "link": "link",
             "tel": "tel"
         },
 		{
             "category": "share",
-			"title": "title",
+	    "title": "title",
             "image": "image",
             "description": "description",
             "link": "link",
-			"tel": "tel"
+	    "tel": "tel"
         },
 		{
             "category": "call",
-			"title": "title",
+	    "title": "title",
             "image": "image",
             "description": "description",
-			"link": "link",
+	    "link": "link",
             "tel": "tel"
         }
     ]
