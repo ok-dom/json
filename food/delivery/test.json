@@ -65,7 +65,7 @@
     ],
 	"drawer": [
         {
-            "category": "drawer",
+            "drawer": "drawer",
             "title": "ЕдаНаДОМ",
             "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-001.png",
 	    "link": "https://www95.ru",
