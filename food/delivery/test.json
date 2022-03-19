@@ -65,36 +65,15 @@
     ],
 	"drawer": [
         {
-            "category": "notification",
-            "title": "title",
-            "image": "image",
-            "description": "description",
-	    "link": "link",
-            "tel": "tel"
-        },
-		{
-            "category": "updata",
-            "title": "title",
-            "image": "image",
-            "description": "description",
-	    "link": "link",
-            "tel": "tel"
-        },
-		{
-            "category": "share",
-	    "title": "title",
-            "image": "image",
-            "description": "description",
-            "link": "link",
-	    "tel": "tel"
-        },
-		{
-            "category": "call",
-	    "title": "title",
-            "image": "image",
-            "description": "description",
-	    "link": "link",
-            "tel": "tel"
+            "category": "drawer",
+            "title": "ЕдаНаДОМ",
+            "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-001.png",
+	    "link": "https://www95.ru",
+            "tel": "+79640626525",
+	    "site":"https://www95.ru",
+	    "update":"https://www95.ru",
+	    "shate":"https://www95.ru",
+	    "notification":"Тепер доступны новые функции"
         }
     ]
 }
