@@ -66,11 +66,8 @@
 	"drawer": [
         {
             "category": "drawer",
-            "title": "ЕдаНаДОМ",
-            "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-001.png",
 	    "link": "https://www95.ru",
             "tel": "+79640626525",
-	    "site":"https://www95.ru",
 	    "update":"https://www95.ru",
 	    "share":"https://www95.ru",
 	    "notification":"Тепер доступны новые функции"
