@@ -75,5 +75,12 @@
 	    "share":"https://www95.ru",
 	    "notification":"Тепер доступны новые функции"
         }
+    ],
+	"settings": [
+        {
+	    "whatsapp": "+79640626525",
+	    "delivery": "от 0 до 400",
+            "category": "settings"
+        }
     ]
 }
