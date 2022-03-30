@@ -65,10 +65,7 @@
     ],
 	"drawer": [
         {
-	    "title": "BEN HOUSE",
-	    "subtitle": "Территория вкуса!",
-	    "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/drawer.jpeg",
-            "category": "drawer",
+	    "category": "drawer",
 	    "link": "https://www95.ru",
             "tel": "+79640626525",
 	    "update":"https://www95.ru",
