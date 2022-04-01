@@ -245,7 +245,7 @@
 	"settings": [
         {
 	    "whatsapp": "+79287816582",
-	    "delivery": "${utf8.decoder.convert([226,130,189])} 30.00 за 1 km",
+	    "delivery": "P 30.00 за 1 km",
             "category": "settings"
         }
     ]
