@@ -22,14 +22,14 @@
             "category": "Мясо",
             "title": "Курица тандури",
             "price": "96.00",
-            "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-001.png",
+            "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/%D0%91%D0%B5%D0%BD%D0%B3%D0%91%D1%83%D1%80%D0%B3%D0%B5%D1%80.PNG",
             "description": "Morbi sollicitudin lorem vitae nisi iaculis,sit amet suscipit orci mollis. Ut dictum lectus eget diam vestibulum, at eleifend felis mattis. Sed molestie congue magna at venenatis. In mollis felis ut consectetur consequat."
         },
         {
             "category": "Бургер",
             "title": "Лосось",
             "price": "40.50",
-            "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-002.png",
+            "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/IMG_6566.JPG",
             "description": "Morbi sollicitudin lorem vitae nisi iaculis,sit amet suscipit orci mollis. Ut dictum lectus eget diam vestibulum, at eleifend felis mattis. Sed molestie congue magna at venenatis. In mollis felis ut consectetur consequat."
         },
         {
@@ -59,7 +59,7 @@
             "category": "topproduct",
             "title": "Курица",
             "price": "96.00",
-            "image": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/plate-001.png",
+            "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/%D0%91%D0%B5%D0%BD%D0%B3%D0%91%D1%83%D1%80%D0%B3%D0%B5%D1%80.PNG",
             "description": "Morbi sollicitudin lorem vitae nisi iaculis,sit amet suscipit orci mollis. Ut dictum lectus eget diam vestibulum, at eleifend felis mattis. Sed molestie congue magna at venenatis. In mollis felis ut consectetur consequat."
         }
     ],
