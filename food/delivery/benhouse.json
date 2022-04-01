@@ -58,7 +58,7 @@
             "category": "Бургеры",
             "title": "Чикенбургер",
             "price": "90.00",
-            "image": "",
+            "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/chickenburger.jpg",
             "description": "Состав: куриная котлета, лист, помидор, огурец, соус"
         },
 		{
