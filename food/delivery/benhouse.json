@@ -23,6 +23,26 @@
 		{
             "category": "Из курицы",
             "icon": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/icons/nachos.png"
+        },
+		{
+            "category": "Мучное",
+            "icon": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/icons/flour.png"
+        },
+		{
+            "category": "Мясное",
+            "icon": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/icons/meat.png"
+        },
+		{
+            "category": "Суши",
+            "icon": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/icons/sushi.png"
+        },
+		{
+            "category": "Пицца",
+            "icon": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/icons/pizza.png"
+        },
+		{
+            "category": "Салаты",
+            "icon": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/icons/salads.png"
         }
     ],
     "products": [
@@ -196,30 +216,114 @@
         },
 		{
             "category": "Из курицы",
-            "title": "Куриные крылья в панировке (5 шт)",
+            "title": "Крылья в панировке (5 шт)",
             "price": "150.00",
             "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/wingsbreadcrumbs.jpg",
-            "description": ""
+            "description": "Куриные крылья в панировке"
         },
 		{
             "category": "Из курицы",
-            "title": "Куриные крылья в панировке (7 шт)",
+            "title": "Крылья в панировке (7 шт)",
             "price": "210.00",
             "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/wingsbreadcrumbs.jpg",
-            "description": ""
+            "description": "Куриные крылья в панировке"
         },
 		{
             "category": "Из курицы",
-            "title": "Куриные крылья в панировке (9 шт)",
+            "title": "Крылья в панировке (9 шт)",
             "price": "270.00",
             "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/wingsbreadcrumbs.jpg",
-            "description": ""
+            "description": "Куриные крылья в панировке"
         },
 		{
             "category": "Из курицы",
             "title": "Стрипсы (2 шт)",
             "price": "79",
             "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/strips.jpg",
+            "description": ""
+        },
+		{
+            "category": "Мучное",
+            "title": "Пельмени за 150",
+            "price": "150.00",
+            "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/Dumplings2.jpeg",
+            "description": ""
+        },
+		{
+            "category": "Мучное",
+            "title": "Пельмени за 170",
+            "price": "170.00",
+            "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/Dumplings1.jpeg",
+            "description": ""
+        },
+		{
+            "category": "Мясное",
+            "title": "Котлеты с пюре",
+            "price": "150.00",
+            "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/cutlets1.jpeg",
+            "description": ""
+        },
+		{
+            "category": "Мясное",
+            "title": "Котлеты",
+            "price": "120.00",
+            "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/cutlets2.jpeg",
+            "description": ""
+        },
+		{
+            "category": "Салаты",
+            "title": "Салат Цезарь",
+            "price": "190.00",
+            "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/salad1.jpeg",
+            "description": ""
+        },
+		{
+            "category": "Салаты",
+            "title": "Крабовый салат",
+            "price": "150.00",
+            "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/salad2.jpeg",
+            "description": ""
+        },
+		{
+            "category": "Салаты",
+            "title": "Морковка по корейски",
+            "price": "150.00",
+            "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/salad3.jpeg",
+            "description": ""
+        },
+		{
+            "category": "Пицца",
+            "title": "Пицца Ассорти (маленький)",
+            "price": "250.00",
+            "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/pizza.jpeg",
+            "description": ""
+        },
+		{
+            "category": "Пицца",
+            "title": "Пицца Ассорти (средний)",
+            "price": "350.00",
+            "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/pizza.jpeg",
+            "description": ""
+        },
+		{
+            "category": "Пицца",
+            "title": "Пицца Ассорти (большой)",
+            "price": "400.00",
+            "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/pizza.jpeg",
+            "description": ""
+        },
+		{
+            "category": "Суши",
+            "title": "Ben set",
+            "price": "900.00",
+            "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/sushi1.jpeg",
+            "description": ""
+        },
+		{
+            "category": "Суши",
+            "title": "Калифорния",
+            "price": "250.00",
+            "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/sushi2.jpeg",
             "description": ""
         }
     ],
