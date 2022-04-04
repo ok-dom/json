@@ -313,6 +313,34 @@
             "description": ""
         },
 		{
+            "category": "Пицца",
+            "title": "Пицца пепперони (средний)",
+            "price": "250.00",
+            "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/pepperoni.jpeg",
+            "description": ""
+        },
+		{
+            "category": "Пицца",
+            "title": "Пицца пепперони (большой)",
+            "price": "350.00",
+            "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/pepperoni.jpeg",
+            "description": ""
+        },
+		{
+            "category": "Пицца",
+            "title": "Мясная пицца (средний)",
+            "price": "250.00",
+            "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/pizzaegg.jpeg",
+            "description": ""
+        },
+		{
+            "category": "Пицца",
+            "title": "Мясная пицца (большой)",
+            "price": "350.00",
+            "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/pizzameat.jpeg",
+            "description": ""
+        },
+		{
             "category": "Суши",
             "title": "Ben set",
             "price": "900.00",
