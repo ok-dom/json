@@ -342,13 +342,6 @@
         },
 		{
             "category": "Суши",
-            "title": "Ben set",
-            "price": "900.00",
-            "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/sushi1.jpeg",
-            "description": ""
-        },
-		{
-            "category": "Суши",
             "title": "Калифорния",
             "price": "250.00",
             "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/sushi2.jpeg",
@@ -379,9 +372,9 @@
     "topproduct": [
         {
             "category": "topproduct",
-            "title": "Бенбургер",
-            "price": "190.00",
-            "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/bengburger.jpg",
+            "title": "Ben Set",
+            "price": "900.00",
+            "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/sushi1.jpeg",
             "description": ""
         }
     ],
