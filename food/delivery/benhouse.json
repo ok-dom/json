@@ -184,7 +184,14 @@
             "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/strips.jpg",
             "description": ""
         },
-		{
+	{
+            "category": "Бургеры",
+            "title": "Бенбургер",
+            "price": "190.00",
+            "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/bengburger.jpg",
+            "description": ""
+        },
+	{
             "category": "Бургеры",
             "title": "Чизбургер",
             "price": "90.00",
