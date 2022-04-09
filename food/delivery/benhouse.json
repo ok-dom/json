@@ -397,7 +397,7 @@
         "tel": "+79287816582",
 	    "update":"https://play.google.com/store/apps/details?id=org.tostudyapp.delivery",
 	    "share":"https://play.google.com/store/apps/details?id=org.tostudyapp.delivery",
-	    "notification":"6 Апреля вышло новое обновление данного приложения"
+	    "notifications":"Обновление|6 Апреля вышло новое обновление данного приложения"
         }
     ],
 	"settings": [
