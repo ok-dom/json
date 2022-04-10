@@ -108,27 +108,6 @@
             "description": ""
         },
 		{
-            "category": "Шаурма",
-            "title": "Сырная шаурма за 140",
-            "price": "140.00",
-            "image": "",
-            "description": ""
-        },
-		{
-            "category": "Шаурма",
-            "title": "Сырная шаурма за 180",
-            "price": "180.00",
-            "image": "",
-            "description": ""
-        },
-		{
-            "category": "Шаурма",
-            "title": "Сырная шаурма за 230",
-            "price": "230.00",
-            "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/shawarma.jpg",
-            "description": ""
-        },
-		{
             "category": "Гиро и Донар",
             "title": "Гиро (на тарелке)",
             "price": "240.00",
