@@ -42,84 +42,105 @@
             "title": "Картошка фри за 49",
             "price": "49.00",
             "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/frenchfries.jpg",
-            "description": ""
+            "description": "Состав: приправа для картофеля и соль"
         },
 		{
             "category": "Картофель",
             "title": "Картошка фри за 79",
             "price": "79.00",
             "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/frenchfries.jpg",
-            "description": ""
+            "description": "Состав: приправа для картофеля и соль"
         },
 		{
             "category": "Картофель",
             "title": "Картошка фри за 115",
             "price": "115.00",
             "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/frenchfries.jpg",
-            "description": ""
+            "description": "Состав: приправа для картофеля и соль"
         },
 		{
             "category": "Картофель",
             "title": "Картошка по деревенски за 53",
             "price": "53.00",
             "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/rusticpotatoes.jpeg",
-            "description": ""
+            "description": "Состав: приправа для картофеля и соль"
         },
 		{
             "category": "Картофель",
             "title": "Картошка по деревенски за 79",
             "price": "79.00",
             "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/rusticpotatoes.jpeg",
-            "description": ""
+            "description": "Состав: приправа для картофеля и соль"
         },
 		{
             "category": "Картофель",
             "title": "Картошка по деревенски за 115",
             "price": "115.00",
             "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/rusticpotatoes.jpeg",
-            "description": ""
+            "description": "Состав: приправа для картофеля и соль"
         },
 		{
             "category": "Шаурма",
             "title": "Шаурма в батоне",
             "price": "150.00",
             "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/shawarmabaguette.jpg",
-            "description": ""
+            "description": "Состав: батон, куриное мясо, помидор, огурец сол/не сол соус, кетчуп, капуста"
         },
 		{
             "category": "Шаурма",
             "title": "Шаурма в лаваше за 130",
             "price": "130.00",
             "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/shawarma.jpg",
-            "description": ""
+            "description": "Состав: лепёшка для шавермул, куриное мясо, помидор, огурец сол/не сол соус, кетчуп, капуста"
         },
 		{
             "category": "Шаурма",
             "title": "Шаурма в лаваше за 170",
             "price": "170.00",
             "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/shawarma.jpg",
-            "description": ""
+            "description": "Состав: лепёшка для шавермул, куриное мясо, помидор, огурец сол/не сол соус, кетчуп, капуста"
         },
 		{
             "category": "Шаурма",
             "title": "Шаурма в лаваше за 220",
             "price": "220.00",
             "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/shawarma.jpg",
+            "description": "Состав: лепёшка для шавермул, куриное мясо, помидор, огурец сол/не сол соус, кетчуп, капуста"
+        },
+		{
+            "category": "Шаурма",
+            "title": "Сырная шаурма за 140",
+            "price": "140.00",
+            "image": "",
             "description": ""
         },
-	{
+		{
+            "category": "Шаурма",
+            "title": "Сырная шаурма за 180",
+            "price": "180.00",
+            "image": "",
+            "description": ""
+        },
+		{
+            "category": "Шаурма",
+            "title": "Сырная шаурма за 230",
+            "price": "230.00",
+            "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/shawarma.jpg",
+            "description": ""
+        },
+		{
             "category": "Гиро и Донар",
             "title": "Гиро (на тарелке)",
             "price": "240.00",
             "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/gyro.jpg",
-            "description": ""
+            "description": "Состав: фри, помидор, огурец, булочка, соус, грудинка"
         },
 		{
             "category": "Гиро и Донар",
             "title": "Донар",
             "price": "150.00",
             "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/donar.jpg",
-            "description": ""
+            "description": "Состав: булочка, куриное мясо, фри, помидор, огурец, соус, кетчуп"
         },
 		{
             "category": "Из курицы",
@@ -140,21 +161,21 @@
             "title": "Крылья в панировке (5 шт)",
             "price": "150.00",
             "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/wingsbreadcrumbs.jpg",
-            "description": ""
+            "description": "Куриные крылья в панировке"
         },
 		{
             "category": "Из курицы",
             "title": "Крылья в панировке (7 шт)",
             "price": "210.00",
             "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/wingsbreadcrumbs.jpg",
-            "description": ""
+            "description": "Куриные крылья в панировке"
         },
 		{
             "category": "Из курицы",
             "title": "Крылья в панировке (9 шт)",
             "price": "270.00",
             "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/wingsbreadcrumbs.jpg",
-            "description": ""
+            "description": "Куриные крылья в панировке"
         },
 		{
             "category": "Из курицы",
@@ -168,7 +189,7 @@
             "title": "Чизбургер",
             "price": "90.00",
             "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/cheeseburger.jpg",
-            "description": ""
+            "description": "Состав: плавленый сыр, помидор, маринованные огурцы, листовой салат, булочки с кунжутом, куриная котлета"
         },
 		{
             "category": "Бургеры",
@@ -189,7 +210,7 @@
             "title": "Гамбургер",
             "price": "79.00",
             "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/hamburger.jpeg",
-            "description": ""
+            "description": "Состав: говяжья котлета, булочка для гамбургера, помидор, огурец, сыр, капуста"
         },
 		{
             "category": "Бургеры",
@@ -203,14 +224,14 @@
             "title": "Чикенбургер",
             "price": "90.00",
             "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/chickenburger.jpg",
-            "description": ""
+            "description": "Состав: куриная котлета, лист, помидор, огурец, соус"
         },
 		{
             "category": "Бургеры",
             "title": "Двойной чикенбургер",
             "price": "180.00",
             "image": "",
-            "description": ""
+            "description": "Состав: куриная котлета 2, лист, помидор, огурец, соус"
         },
 		{
             "category": "Горячие блюда",
@@ -374,9 +395,9 @@
 	    "category": "drawer",
 	    "link": "https://www95.ru",
         "tel": "+79287816582",
-	    "update":"",
+	    "update":"https://play.google.com/store/apps/details?id=org.tostudyapp.delivery",
 	    "share":"https://play.google.com/store/apps/details?id=org.tostudyapp.delivery",
-	    "notifications":"no"
+	    "notification":"6 Апреля вышло новое обновление данного приложения"
         }
     ],
 	"settings": [
