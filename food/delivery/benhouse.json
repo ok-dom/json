@@ -214,16 +214,9 @@
         },
 		{
             "category": "Горячие блюда",
-            "title": "Пельмени за 150",
+            "title": "Пельмени",
             "price": "150.00",
             "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/Dumplings2.jpeg",
-            "description": ""
-        },
-		{
-            "category": "Горячие блюда",
-            "title": "Пельмени за 170",
-            "price": "170.00",
-            "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/Dumplings1.jpeg",
             "description": ""
         },
 		{
