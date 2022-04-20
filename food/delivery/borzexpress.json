@@ -2,17 +2,17 @@
 "drawer": [
         {
 	    "category": "drawer",
-	    "link": "https://www.instagram.com/borz_club_95/",
-            "tel": "+79287816582",
-	    "update":"https://play.google.com/store/apps/details?id=org.tostudyapp.delivery",
-	    "share":"https://play.google.com/store/apps/details?id=org.tostudyapp.delivery",
-	    "notification":"6 Апреля вышло новое обновление данного приложения"
+	    "link": "",
+            "tel": "+79380176783",
+	    "update":"",
+	    "share":"https://play.google.com/store/apps/details?id=org.tostudyapp.borzexpress",
+	    "notification":""
         }
     ],
 	"settings": [
         {
-	    "whatsapp": "+79287816582",
-	    "delivery": "10.00 за 1 km",
+	    "whatsapp": "+79380176783",
+	    "delivery": "",
             "category": "settings"
         }
     ]
