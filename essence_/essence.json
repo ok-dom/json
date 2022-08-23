@@ -1,19 +1,69 @@
 {
-  "product":
-    {
-	  "id": 0,
-	  "category":"ОДЕЖДА",
-	  "subcategory":"Платья",
-	  "title":"Мини-платье с узлом спереди",
-	  "description":"Mauris viverra cursus ante laoreet eleifend. Donec vel fringilla ante. Aenean finibus velit id urna vehicula, nec maximus est sollicitudin.",
-	  "price":55.00,
-	  "discount":30,
-	  "new":123456789,
-	  "image":"https://raw.githubusercontent.com/ok-dom/essence_/main/img/product-img/product-1.jpg",
-	  "type":"Woman",
-	  "brand":"Asos",
-	  "color":"Red",
-	  "size":"S",
-	  "popular":0
-	}
+  "products":
+    [
+	  {
+		  "id": 0,
+		  "category":"ОДЕЖДА",
+		  "subcategory":"Платья",
+		  "title":"Мини-платье с узлом спереди",
+		  "description":"Mauris viverra cursus ante laoreet eleifend. Donec vel fringilla ante. Aenean finibus velit id urna vehicula, nec maximus est sollicitudin.",
+		  "price":80.00,
+		  "discount":0,
+		  "new":123456789,
+		  "image":"https://raw.githubusercontent.com/ok-dom/essence_/main/img/product-img/product-1.jpg",
+		  "type":"Woman",
+		  "brand":"Asos",
+		  "color":"Белый",
+		  "size":"S",
+		  "popular":0
+	  },
+	  {
+		  "id": 0,
+		  "category":"ОДЕЖДА",
+		  "subcategory":"Платья",
+		  "title":"Платье из поплина со смещенным запахом",
+		  "description":"Mauris viverra cursus ante laoreet eleifend. Donec vel fringilla ante. Aenean finibus velit id urna vehicula, nec maximus est sollicitudin.",
+		  "price":55.00,
+		  "discount":0,
+		  "new":123456789,
+		  "image":"https://raw.githubusercontent.com/ok-dom/essence_/main/img/product-img/product-2.jpg",
+		  "type":"Woman",
+		  "brand":"Asos",
+		  "color":"Белый",
+		  "size":"XL",
+		  "popular":0
+	  },
+	  {
+		  "id": 0,
+		  "category":"ОДЕЖДА",
+		  "subcategory":"Платья",
+		  "title":"Мини-платье PETITE с запахом из крепа",
+		  "description":"Mauris viverra cursus ante laoreet eleifend. Donec vel fringilla ante. Aenean finibus velit id urna vehicula, nec maximus est sollicitudin.",
+		  "price":55.00,
+		  "discount":30,
+		  "new":123456789,
+		  "image":"https://raw.githubusercontent.com/ok-dom/essence_/main/img/product-img/product-3.jpg",
+		  "type":"Woman",
+		  "brand":"Mango",
+		  "color":"Белый",
+		  "size":"L",
+		  "popular":0
+	  },
+	  {
+		  "id": 0,
+		  "category":"ОДЕЖДА",
+		  "subcategory":"Платья",
+		  "title":"Мини-платье с узлом спереди",
+		  "description":"Mauris viverra cursus ante laoreet eleifend. Donec vel fringilla ante. Aenean finibus velit id urna vehicula, nec maximus est sollicitudin.",
+		  "price":55.00,
+		  "discount":30,
+		  "new":123456789,
+		  "image":"https://raw.githubusercontent.com/ok-dom/essence_/main/img/product-img/product-4.jpg",
+		  "type":"Woman",
+		  "brand":"Asos",
+		  "color":"Белый",
+		  "size":"XXL",
+		  "popular":0
+	  }
+	]
 }
