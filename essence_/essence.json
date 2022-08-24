@@ -3,7 +3,7 @@
     {
 	  "name":"ESSENCE",
 	  "open":"",
-          "tel":"",
+      "tel":"",
 	  "whatsapp":"",
 	  "instagram":"",
 	  "telegram":"",
@@ -11,7 +11,8 @@
 	  "vk":"",
 	  "backgroundImg":"",
 	  "addres":"",
-	  "map":""
+	  "map":"",
+	  "brands":[{"brand":"Asos"},{"brand":"River Island"},{"brand":"Mango"},{"brand":"Topshop"},{"brand":"Zara"},{"brand":"Adidass"},{"brand":"M&L"}]
     },
   "products":
     [
