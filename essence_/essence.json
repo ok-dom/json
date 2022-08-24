@@ -1,4 +1,17 @@
-{
+{ 
+
+  "settings":
+    {
+	  "name":"ESSENCE",
+	  "open":"",
+      "tel":"",
+	  "whatsapp":"",
+	  "instagram":"",
+	  "telegram":"",
+	  "email":"",
+	  "vk":"",
+	  "backgroundImg":""
+    },
   "products":
     [
 	  {
