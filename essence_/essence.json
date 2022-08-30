@@ -11,8 +11,7 @@
 	  "vk":"",
 	  "backgroundImg":"",
 	  "addres":"",
-	  "map":"",
-	  "brands":[{"brand":"Asos"},{"brand":"River Island"},{"brand":"Mango"},{"brand":"Topshop"},{"brand":"Zara"},{"brand":"Adidass"},{"brand":"M&L"}]
+	  "map":""
     },
   "products":
     [
@@ -28,7 +27,7 @@
 		  "image":"https://raw.githubusercontent.com/ok-dom/essence_/main/img/product-img/product-1.jpg",
 		  "type":"Женская",
 		  "brand":"River Island",
-		  "color":"color1",
+		  "color":"Белый",
 		  "sizes":[{"size":"X"},{"size":"XL"},{"size":"M"},{"size":"S"},{"size":"L"}],
 		  "popular":true
 	  },
@@ -44,7 +43,7 @@
 		  "image":"https://raw.githubusercontent.com/ok-dom/essence_/main/img/product-img/product-2.jpg",
 		  "type":"Мужская",
 		  "brand":"Asos",
-		  "color":"color2",
+		  "color":"Серый",
 		  "sizes":[{"size":"X"},{"size":"XL"},{"size":"M"},{"size":"S"},{"size":"L"}],
 		  "popular":true
 	  },
@@ -60,7 +59,7 @@
 		  "image":"https://raw.githubusercontent.com/ok-dom/essence_/main/img/product-img/product-3.jpg",
 		  "type":"Мужская",
 		  "brand":"Mango",
-		  "color":"color2",
+		  "color":"Серый",
 		  "sizes":[{"size":"X"},{"size":"XL"},{"size":"M"},{"size":"S"},{"size":"L"}],
 		  "popular":true
 	  },
@@ -76,7 +75,7 @@
 		  "image":"https://raw.githubusercontent.com/ok-dom/essence_/main/img/product-img/product-4.jpg",
 		  "type":"Женская",
 		  "brand":"Topshop",
-		  "color":"color2",
+		  "color":"Серый",
 		  "sizes":[{"size":"X"},{"size":"XL"},{"size":"M"},{"size":"S"},{"size":"L"}],
 		  "popular":true
 	  },
@@ -92,7 +91,7 @@
 		  "image":"https://raw.githubusercontent.com/ok-dom/essence_/main/img/product-img/product-5.jpg",
 		  "type":"Женская",
 		  "brand":"Zara",
-		  "color":"color1",
+		  "color":"Белый",
 		  "sizes":[{"size":"X"},{"size":"XL"},{"size":"M"},{"size":"S"},{"size":"L"}],
 		  "popular":false
 	  },
@@ -108,7 +107,7 @@
 		  "image":"https://raw.githubusercontent.com/ok-dom/essence_/main/img/product-img/product-6.jpg",
 		  "type":"Женская",
 		  "brand":"Adidass",
-		  "color":"color3",
+		  "color":"Черный",
 		  "sizes":[{"size":"X"},{"size":"XL"},{"size":"M"},{"size":"S"},{"size":"L"}],
 		  "popular":false
 	  },
@@ -124,7 +123,7 @@
 		  "image":"https://raw.githubusercontent.com/ok-dom/essence_/main/img/product-img/product-7.jpg",
 		  "type":"Женская",
 		  "brand":"M&L",
-		  "color":"color2",
+		  "color":"Серый",
 		  "sizes":[{"size":"X"},{"size":"XL"},{"size":"M"},{"size":"S"},{"size":"L"}],
 		  "popular":false
 	  },
@@ -140,7 +139,7 @@
 		  "image":"https://raw.githubusercontent.com/ok-dom/essence_/main/img/product-img/product-8.jpg",
 		  "type":"Мужская",
 		  "brand":"Adidass",
-		  "color":"color4",
+		  "color":"Желтый",
 		  "sizes":[{"size":"X"},{"size":"XL"},{"size":"M"},{"size":"S"},{"size":"L"}],
 		  "popular":false
 	  },
@@ -156,7 +155,7 @@
 		  "image":"https://raw.githubusercontent.com/ok-dom/essence_/main/img/product-img/product-9.jpg",
 		  "type":"Женская",
 		  "brand":"Asos",
-		  "color":"color3",
+		  "color":"Черный",
 		  "sizes":[{"size":"X"},{"size":"XL"},{"size":"M"},{"size":"S"},{"size":"L"}],
 		  "popular":false
 	  },
@@ -172,7 +171,7 @@
 		  "image":"https://raw.githubusercontent.com/ok-dom/essence_/main/img/product-img/product-4.jpg",
 		  "type":"Женская",
 		  "brand":"Zara",
-		  "color":"color5",
+		  "color":"Красный",
 		  "sizes":[{"size":"X"},{"size":"XL"},{"size":"M"},{"size":"S"},{"size":"L"}],
 		  "popular":false
 	  },
@@ -188,7 +187,7 @@
 		  "image":"https://raw.githubusercontent.com/ok-dom/essence_/main/img/product-img/product-4.jpg",
 		  "type":"Женская",
 		  "brand":"Mango",
-		  "color":"color1",
+		  "color":"Белый",
 		  "sizes":[{"size":"X"},{"size":"XL"},{"size":"M"},{"size":"S"},{"size":"L"}],
 		  "popular":true
 	  },
@@ -204,7 +203,7 @@
 		  "image":"https://raw.githubusercontent.com/ok-dom/essence_/main/img/product-img/product-2.jpg",
 		  "type":"Мужская",
 		  "brand":"Asos",
-		  "color":"color4",
+		  "color":"Желтый",
 		  "sizes":[{"size":"X"},{"size":"XL"},{"size":"M"},{"size":"S"},{"size":"L"}],
 		  "popular":true
 	  },
@@ -220,7 +219,7 @@
 		  "image":"https://raw.githubusercontent.com/ok-dom/essence_/main/img/product-img/product-3.jpg",
 		  "type":"Женская",
 		  "brand":"Mango",
-		  "color":"color5",
+		  "color":"Красный",
 		  "sizes":[{"size":"X"},{"size":"XL"},{"size":"M"},{"size":"S"},{"size":"L"}],
 		  "popular":true
 	  },
@@ -236,7 +235,7 @@
 		  "image":"https://raw.githubusercontent.com/ok-dom/essence_/main/img/product-img/product-4.jpg",
 		  "type":"Женская",
 		  "brand":"Topshop",
-		  "color":"color5",
+		  "color":"Красный",
 		  "sizes":[{"size":"X"},{"size":"XL"},{"size":"M"},{"size":"S"},{"size":"L"}],
 		  "popular":true
 	  },
@@ -252,7 +251,7 @@
 		  "image":"https://raw.githubusercontent.com/ok-dom/essence_/main/img/product-img/product-5.jpg",
 		  "type":"",
 		  "brand":"Zara",
-		  "color":"color2",
+		  "color":"Серый",
 		  "sizes":[{"size":"X"},{"size":"XL"},{"size":"M"},{"size":"S"},{"size":"L"}],
 		  "popular":false
 	  },
@@ -268,7 +267,7 @@
 		  "image":"https://raw.githubusercontent.com/ok-dom/essence_/main/img/product-img/product-6.jpg",
 		  "type":"Женская",
 		  "brand":"Adidass",
-		  "color":"color6",
+		  "color":"Белый",
 		  "sizes":[{"size":"X"},{"size":"XL"},{"size":"M"},{"size":"S"},{"size":"L"}],
 		  "popular":false
 	  },
@@ -284,7 +283,7 @@
 		  "image":"https://raw.githubusercontent.com/ok-dom/essence_/main/img/product-img/product-7.jpg",
 		  "type":"",
 		  "brand":"M&L",
-		  "color":"color7",
+		  "color":"Синий",
 		  "sizes":[{"size":"X"},{"size":"XL"},{"size":"M"},{"size":"S"},{"size":"L"}],
 		  "popular":false
 	  },
@@ -300,7 +299,7 @@
 		  "image":"https://raw.githubusercontent.com/ok-dom/essence_/main/img/product-img/product-8.jpg",
 		  "type":"Женская",
 		  "brand":"Adidass",
-		  "color":"color8",
+		  "color":"Оранжевый",
 		  "sizes":[{"size":"X"},{"size":"XL"},{"size":"M"},{"size":"S"},{"size":"L"}],
 		  "popular":false
 	  },
@@ -316,7 +315,7 @@
 		  "image":"https://raw.githubusercontent.com/ok-dom/essence_/main/img/product-img/product-9.jpg",
 		  "type":"Женская",
 		  "brand":"Asos",
-		  "color":"color9",
+		  "color":"Зеленый",
 		  "sizes":[{"size":"X"},{"size":"XL"},{"size":"M"},{"size":"S"},{"size":"L"}],
 		  "popular":false
 	  },
@@ -332,7 +331,7 @@
 		  "image":"https://raw.githubusercontent.com/ok-dom/essence_/main/img/product-img/product-4.jpg",
 		  "type":"Женская",
 		  "brand":"Zara",
-		  "color":"color10",
+		  "color":"Оранжевый",
 		  "sizes":[{"size":"X"},{"size":"XL"},{"size":"M"},{"size":"S"},{"size":"L"}],
 		  "popular":false
 	  },
@@ -348,7 +347,7 @@
 		  "image":"https://raw.githubusercontent.com/ok-dom/essence_/main/img/product-img/product-4.jpg",
 		  "type":"Женская",
 		  "brand":"Mango",
-		  "color":"color2",
+		  "color":"Серый",
 		  "sizes":[{"size":"X"},{"size":"XL"},{"size":"M"},{"size":"S"},{"size":"L"}],
 		  "popular":true
 	  }
