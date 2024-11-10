@@ -1,0 +1,98 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Закуски",
+      "image": "https://i.pinimg.com/236x/a6/4e/ee/a64eeecb387b66aa57dec7d718baebb8.jpg?nii=t"
+    },
+    {
+      "id": 2,
+      "name": "Основные блюда",
+      "image": "https://i.pinimg.com/236x/d3/ab/49/d3ab4978a7289f38c2918eb262231536--avocado-egg-rolls-avocado-roll.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Десерты",
+      "image": "https://i.pinimg.com/236x/93/95/7f/93957ff8737b32ed9481fdc6ed55f95f--app-link.jpg?nii=t"
+    },
+    {
+      "id": 4,
+      "name": "Напитки",
+      "image": "https://avatars.mds.yandex.net/i?id=cfaeb86180ea92ca7ea0076bc66cda9a_sr-5210410-images-thumbs&n=13"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Брускетта с томатами",
+      "description": "Хрустящий хлеб с нарезанными помидорами, чесноком и оливковым маслом.",
+      "image": "https://example.com/images/bruschetta.jpg",
+      "price": 5.99,
+      "rating": 4.5,
+      "category_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Салат Цезарь",
+      "description": "Классический салат с курицей, пармезаном и соусом Цезарь.",
+      "image": "https://example.com/images/caesar_salad.jpg",
+      "price": 7.99,
+      "rating": 4.7,
+      "category_id": 1
+    },
+    {
+      "id": 3,
+      "name": "Стейк из говядины",
+      "description": "Сочный стейк из говядины с гарниром из картофеля и овощей.",
+      "image": "https://example.com/images/steak.jpg",
+      "price": 19.99,
+      "rating": 4.8,
+      "category_id": 2
+    },
+    {
+      "id": 4,
+      "name": "Лазанья",
+      "description": "Традиционная итальянская лазанья с мясом и сыром.",
+      "image": "https://example.com/images/lasagna.jpg",
+      "price": 12.99,
+      "rating": 4.6,
+      "category_id": 2
+    },
+    {
+      "id": 5,
+      "name": "Тирамису",
+      "description": "Классический итальянский десерт с кофе и маскарпоне.",
+      "image": "https://example.com/images/tiramisu.jpg",
+      "price": 6.99,
+      "rating": 4.9,
+      "category_id": 3
+    },
+    {
+      "id": 6,
+      "name": "Шоколадный мусс",
+      "description": "Нежный шоколадный мусс с взбитыми сливками.",
+      "image": "https://example.com/images/chocolate_mousse.jpg",
+      "price": 5.99,
+      "rating": 4.8,
+      "category_id": 3
+    },
+    {
+      "id": 7,
+      "name": "Кола",
+      "description": "Освежающий напиток с колой.",
+      "image": "https://example.com/images/cola.jpg",
+      "price": 1.99,
+      "rating": 4.5,
+      "category_id": 4
+    },
+    {
+      "id": 8,
+      "name": "Лимонад",
+      "description": "Домашний лимонад с лимоном и мятой.",
+      "image": "https://example.com/images/lemonade.jpg",
+      "price": 2.99,
+      "rating": 4.7,
+      "category_id": 4
+    }
+  ]
+}
