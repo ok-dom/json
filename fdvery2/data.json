@@ -1,5 +1,5 @@
 {
-    categories: [{
+    "categories": [{
             "id": 1,
             "name": "Салаты",
             "icon": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm0-14c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3zm0 10c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2z'/></svg>"
@@ -11,21 +11,9 @@
             "id": 3,
             "name": "Десерты",
             "icon": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm0-14c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3zm0 10c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2z'/></svg>"
-        }, {
-            "id": 4,
-            "name": "Напитки",
-            "icon": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm0-14c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3zm0 10c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2z'/></svg>"
-        }, {
-            "id": 5,
-            "name": "Закуски",
-            "icon": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm0-14c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3zm0 10c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2z'/></svg>"
-        }, {
-            "id": 6,
-            "name": "Супы",
-            "icon": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm0-14c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3zm0 10c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2z'/></svg>"
         }
     ],
-    products: [{
+    "products": [{
             "id": 1,
             "name": "Салат Цезарь",
             "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
@@ -151,132 +139,6 @@
             "description": "Французские эклеры с заварным кремом и шоколадной глазурью.",
             "price": 270,
             "category_id": 3
-        }, {
-            "id": 19,
-            "name": "Кофе эспрессо",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
-            "description": "Крепкий кофе эспрессо, приготовленный из свежемолотых зерен.",
-            "price": 150,
-            "category_id": 4
-        }, {
-            "id": 20,
-            "name": "Капучино",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
-            "description": "Кофе с молочной пенкой и шоколадной посыпкой.",
-            "price": 200,
-            "category_id": 4
-        }, {
-            "id": 21,
-            "name": "Латте",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
-            "description": "Кофе с молоком и нежной пенкой.",
-            "price": 180,
-            "category_id": 4
-        }, {
-            "id": 22,
-            "name": "Апельсиновый сок",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
-            "description": "Свежевыжатый апельсиновый сок без добавок.",
-            "price": 120,
-            "category_id": 4
-        }, {
-            "id": 23,
-            "name": "Лимонад",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
-            "description": "Освежающий лимонад с натуральными ингредиентами.",
-            "price": 130,
-            "category_id": 4
-        }, {
-            "id": 24,
-            "name": "Чай зеленый",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
-            "description": "Ароматный зеленый чай с нотками трав.",
-            "price": 100,
-            "category_id": 4
-        }, {
-            "id": 25,
-            "name": "Брускетта с томатами и базиликом",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
-            "description": "Хрустящий хлеб с нарезанными помидорами, базиликом и оливковым маслом.",
-            "price": 180,
-            "category_id": 5
-        }, {
-            "id": 26,
-            "name": "Начос с соусом",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
-            "description": "Хрустящие начос с острым соусом и сыром.",
-            "price": 220,
-            "category_id": 5
-        }, {
-            "id": 27,
-            "name": "Креветки в кляре",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
-            "description": "Свежие креветки в хрустящем кляре с соусом тартар.",
-            "price": 300,
-            "category_id": 5
-        }, {
-            "id": 28,
-            "name": "Оливки маринованные",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
-            "description": "Маринованные оливки с травами и специями.",
-            "price": 150,
-            "category_id": 5
-        }, {
-            "id": 29,
-            "name": "Мини-пиццы",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
-            "description": "Маленькие пиццы с различными начинками.",
-            "price": 250,
-            "category_id": 5
-        }, {
-            "id": 30,
-            "name": "Сырная тарелка",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
-            "description": "Ассорти из различных сыров с виноградом и крекерами.",
-            "price": 350,
-            "category_id": 5
-        }, {
-            "id": 31,
-            "name": "Борщ",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
-            "description": "Традиционный украинский суп из свеклы, капусты, мяса и сметаны.",
-            "price": 200,
-            "category_id": 6
-        }, {
-            "id": 32,
-            "name": "Куриный суп",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
-            "description": "Легкий и питательный суп из курицы с овощами и вермишелью.",
-            "price": 180,
-            "category_id": 6
-        }, {
-            "id": 33,
-            "name": "Томатный суп",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
-            "description": "Ароматный суп из свежих помидоров с чесноком и базиликом.",
-            "price": 160,
-            "category_id": 6
-        }, {
-            "id": 34,
-            "name": "Грибной крем-суп",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
-            "description": "Нежный крем-суп из свежих грибов с добавлением сливок.",
-            "price": 220,
-            "category_id": 6
-        }, {
-            "id": 35,
-            "name": "Суп-пюре из тыквы",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
-            "description": "Сливочный суп-пюре из тыквы с добавлением специй и сливок.",
-            "price": 210,
-            "category_id": 6
-        }, {
-            "id": 36,
-            "name": "Уха",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
-            "description": "Русский рыбный суп с различными видами рыбы и овощами.",
-            "price": 250,
-            "category_id": 6
         }
     ]
 }
