@@ -1,36 +1,36 @@
 {
     "categories": [
-		{
-			"id": 1,
-			"name": "Салаты",
-			"icon": "McDonald.svg"
-		},
-		{
-			"id": 2,
-			"name": "Основные блюда",
-			"icon": "main_dish.svg"
-		},
-		{
-			"id": 3,
-			"name": "Десерты",
-			"icon": "dessert.svg"
-		},
-		{
-			"id": 4,
-			"name": "Напитки",
-			"icon": "drink.svg"
-		},
-		{
-			"id": 5,
-			"name": "Закуски",
-			"icon": "snack.svg"
-		},
-		{
-			"id": 6,
-			"name": "Супы",
-			"icon": "soup.svg"
-		}
-	],
+	{
+		"id": 1,
+		"name": "Салаты",
+		"icon": "Salads"
+	},
+	{
+		"id": 2,
+		"name": "Основные блюда",
+		"icon": "DominosPizza"
+	},
+	{
+		"id": 3,
+		"name": "Десерты",
+		"icon": "McDonald"
+	},
+	{
+		"id": 4,
+		"name": "Напитки",
+		"icon": "BurgerKing"
+	},
+	{
+		"id": 5,
+		"name": "Закуски",
+		"icon": "PizzaHut"
+	},
+	{
+		"id": 6,
+		"name": "Супы",
+		"icon": "Salads"
+	}
+    ],
     "products": [{
             "id": 1,
             "name": "Салат Цезарь",
