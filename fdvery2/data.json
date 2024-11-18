@@ -1,159 +1,213 @@
 {
     "categories": [
-	{
-		"id": 1,
-		"name": "Салаты",
-		"icon": "Salads"
-	},
-	{
-		"id": 2,
-		"name": "Основные блюда",
-		"icon": "DominosPizza"
-	},
-	{
-		"id": 3,
-		"name": "Десерты",
-		"icon": "McDonald"
-	},
-	{
-		"id": 4,
-		"name": "Напитки",
-		"icon": "BurgerKing"
-	},
-	{
-		"id": 5,
-		"name": "Закуски",
-		"icon": "PizzaHut"
-	},
-	{
-		"id": 6,
-		"name": "Супы",
-		"icon": "Salads"
-	}
+        {
+            "id": 1,
+            "name": "Салаты",
+            "icon": "Salads"
+        },
+        {
+            "id": 2,
+            "name": "Основные блюда",
+            "icon": "DominosPizza"
+        },
+        {
+            "id": 3,
+            "name": "Десерты",
+            "icon": "McDonald"
+        },
+        {
+            "id": 4,
+            "name": "Напитки",
+            "icon": "BurgerKing"
+        },
+        {
+            "id": 5,
+            "name": "Закуски",
+            "icon": "PizzaHut"
+        },
+        {
+            "id": 6,
+            "name": "Супы",
+            "icon": "Salads"
+        }
     ],
-    "products": [{
+    "products": [
+        {
             "id": 1,
             "name": "Салат Цезарь",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
+            "imageUrl": [
+                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
+            ],
             "description": "Классический салат Цезарь с курицей, пармезаном и соусом Цезарь.",
             "price": 350,
             "category_id": 1
-        }, {
+        },
+        {
             "id": 2,
             "name": "Греческий салат",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
+            "imageUrl": [
+                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
+            ],
             "description": "Свежий салат с помидорами, огурцами, оливками, фетой и орегано.",
             "price": 280,
             "category_id": 1
-        }, {
+        },
+        {
             "id": 3,
             "name": "Салат с лососем",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
+            "imageUrl": [
+                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
+            ],
             "description": "Салат с маринованным лососем, авокадо, огурцами и соусом на основе йогурта.",
             "price": 450,
             "category_id": 1
-        }, {
+        },
+        {
             "id": 4,
             "name": "Салат с курицей и авокадо",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
+            "imageUrl": [
+                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
+            ],
             "description": "Салат с куриной грудкой, авокадо, помидорами черри и соусом на основе оливкового масла.",
             "price": 380,
             "category_id": 1
-        }, {
+        },
+        {
             "id": 5,
             "name": "Салат с креветками",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
+            "imageUrl": [
+                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
+            ],
             "description": "Салат с креветками, авокадо, помидорами и соусом на основе лимонного сока.",
             "price": 420,
             "category_id": 1
-        }, {
+        },
+        {
             "id": 6,
             "name": "Салат с тунцом",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
+            "imageUrl": [
+                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
+            ],
             "description": "Салат с тунцом, огурцами, помидорами и соусом на основе майонеза.",
             "price": 320,
             "category_id": 1
-        }, {
+        },
+        {
             "id": 7,
             "name": "Стейк из говядины",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
+            "imageUrl": [
+                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
+            ],
             "description": "Сочный стейк из говядины, приготовленный на гриле с гарниром из овощей.",
             "price": 850,
             "category_id": 2
-        }, {
+        },
+        {
             "id": 8,
             "name": "Курица с картофелем",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
+            "imageUrl": [
+                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
+            ],
             "description": "Запеченная курица с картофелем, приправленная травами и специями.",
             "price": 450,
             "category_id": 2
-        }, {
+        },
+        {
             "id": 9,
             "name": "Лосось на гриле",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
+            "imageUrl": [
+                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
+            ],
             "description": "Филе лосося, приготовленное на гриле с лимонным соусом и гарниром из свежих овощей.",
             "price": 700,
             "category_id": 2
-        }, {
+        },
+        {
             "id": 10,
             "name": "Паста Карбонара",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
+            "imageUrl": [
+                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
+            ],
             "description": "Классическая итальянская паста с беконом, яйцами и пармезаном.",
             "price": 380,
             "category_id": 2
-        }, {
+        },
+        {
             "id": 11,
             "name": "Котлеты из индейки",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
+            "imageUrl": [
+                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
+            ],
             "description": "Сочные котлеты из индейки с гарниром из картофельного пюре и свежих овощей.",
             "price": 420,
             "category_id": 2
-        }, {
+        },
+        {
             "id": 12,
             "name": "Рыба с овощами",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
+            "imageUrl": [
+                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
+            ],
             "description": "Запеченная рыба с гарниром из свежих овощей и лимонным соусом.",
             "price": 550,
             "category_id": 2
-        }, {
+        },
+        {
             "id": 13,
             "name": "Тирамису",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
+            "imageUrl": [
+                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
+            ],
             "description": "Классический итальянский десерт с маскарпоне, кофе и савоярди.",
             "price": 300,
             "category_id": 3
-        }, {
+        },
+        {
             "id": 14,
             "name": "Шоколадный торт",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
+            "imageUrl": [
+                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
+            ],
             "description": "Пышный шоколадный торт с кремом и шоколадной глазурью.",
             "price": 250,
             "category_id": 3
-        }, {
+        },
+        {
             "id": 15,
             "name": "Фруктовый салат",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
+            "imageUrl": [
+                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
+            ],
             "description": "Свежий салат из сезонных фруктов с медовым соусом.",
             "price": 200,
             "category_id": 3
-        }, {
+        },
+        {
             "id": 16,
             "name": "Панна котта",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
+            "imageUrl": [
+                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
+            ],
             "description": "Итальянский десерт из заварного крема с ягодным соусом.",
             "price": 280,
             "category_id": 3
-        }, {
+        },
+        {
             "id": 17,
             "name": "Чизкейк",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
+            "imageUrl": [
+                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
+            ],
             "description": "Нежный чизкейк с клубничным джемом и песочным основанием.",
             "price": 320,
             "category_id": 3
-        }, {
+        },
+        {
             "id": 18,
             "name": "Эклеры",
-            "imageUrl": "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru",
+            "imageUrl": [
+                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
+            ],
             "description": "Французские эклеры с заварным кремом и шоколадной глазурью.",
             "price": 270,
             "category_id": 3
