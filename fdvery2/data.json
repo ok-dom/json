@@ -37,8 +37,8 @@
             "name": "Салат Цезарь",
             "imageUrl": [
                 "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/pizza.webp",
-				"https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/pizza2.webp",
-				"https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/pizza3.webp",
+                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/pizza2.webp",
+                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/pizza3.webp"
             ],
             "description": "Классический салат Цезарь с курицей, пармезаном и соусом Цезарь.",
             "price": 350,
@@ -49,8 +49,8 @@
             "name": "Греческий салат",
             "imageUrl": [
                 "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/coffee.webp",
-				"https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/coffee.webp",
-				"https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/pizza.webp"
+                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/coffee.webp",
+                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/pizza.webp"
             ],
             "description": "Свежий салат с помидорами, огурцами, оливками, фетой и орегано.",
             "price": 280,
@@ -61,8 +61,8 @@
             "name": "Салат с лососем",
             "imageUrl": [
                 "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/dessert.webp",
-				"https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/pizza.webp",
-				"https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/coffee.webp"
+                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/pizza.webp",
+                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/coffee.webp"
             ],
             "description": "Салат с маринованным лососем, авокадо, огурцами и соусом на основе йогурта.",
             "price": 450,
@@ -83,8 +83,8 @@
             "name": "Салат с креветками",
             "imageUrl": [
                 "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/coffee1.webp",
-				"https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/coffee2.webp",
-				"https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/coffee3.webp"
+                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/coffee2.webp",
+                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/coffee3.webp"
             ],
             "description": "Салат с креветками, авокадо, помидорами и соусом на основе лимонного сока.",
             "price": 420,
