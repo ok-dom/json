@@ -36,7 +36,9 @@
             "id": 1,
             "name": "Салат Цезарь",
             "imageUrl": [
-                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
+                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/pizza.webp",
+				"https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/pizza2.webp",
+				"https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/pizza3.webp",
             ],
             "description": "Классический салат Цезарь с курицей, пармезаном и соусом Цезарь.",
             "price": 350,
@@ -46,7 +48,9 @@
             "id": 2,
             "name": "Греческий салат",
             "imageUrl": [
-                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
+                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/coffee.webp",
+				"https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/coffee.webp",
+				"https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/pizza.webp"
             ],
             "description": "Свежий салат с помидорами, огурцами, оливками, фетой и орегано.",
             "price": 280,
@@ -56,7 +60,9 @@
             "id": 3,
             "name": "Салат с лососем",
             "imageUrl": [
-                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
+                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/dessert.webp",
+				"https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/pizza.webp",
+				"https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/coffee.webp"
             ],
             "description": "Салат с маринованным лососем, авокадо, огурцами и соусом на основе йогурта.",
             "price": 450,
@@ -66,7 +72,7 @@
             "id": 4,
             "name": "Салат с курицей и авокадо",
             "imageUrl": [
-                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
+                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/fruit.webp"
             ],
             "description": "Салат с куриной грудкой, авокадо, помидорами черри и соусом на основе оливкового масла.",
             "price": 380,
@@ -76,7 +82,9 @@
             "id": 5,
             "name": "Салат с креветками",
             "imageUrl": [
-                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
+                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/coffee1.webp",
+				"https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/coffee2.webp",
+				"https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/coffee3.webp"
             ],
             "description": "Салат с креветками, авокадо, помидорами и соусом на основе лимонного сока.",
             "price": 420,
@@ -86,7 +94,7 @@
             "id": 6,
             "name": "Салат с тунцом",
             "imageUrl": [
-                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
+                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/fruit.webp"
             ],
             "description": "Салат с тунцом, огурцами, помидорами и соусом на основе майонеза.",
             "price": 320,
@@ -96,7 +104,7 @@
             "id": 7,
             "name": "Стейк из говядины",
             "imageUrl": [
-                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
+                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/fruit.webp"
             ],
             "description": "Сочный стейк из говядины, приготовленный на гриле с гарниром из овощей.",
             "price": 850,
@@ -106,7 +114,7 @@
             "id": 8,
             "name": "Курица с картофелем",
             "imageUrl": [
-                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
+                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/fruit.webp"
             ],
             "description": "Запеченная курица с картофелем, приправленная травами и специями.",
             "price": 450,
@@ -116,7 +124,7 @@
             "id": 9,
             "name": "Лосось на гриле",
             "imageUrl": [
-                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
+                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/fruit.webp"
             ],
             "description": "Филе лосося, приготовленное на гриле с лимонным соусом и гарниром из свежих овощей.",
             "price": 700,
