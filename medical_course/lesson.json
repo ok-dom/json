@@ -1,0 +1,83 @@
+{
+    "title": "Lesson 1: Basics of Programming",
+    "contents": [
+        {
+            "title": "Introduction",
+            "columns": 3,
+            "blocks": [
+                {
+                    "id": 1,
+                    "type": "i-t-v",
+                    "ru": "дверь",
+                    "ar": "باب",
+                    "img": "door.jpg",
+                    "take": [1, 1]
+                },
+                {
+                    "id": 2,
+                    "type": "i-t-v",
+                    "ru": "мечеть",
+                    "ar": "مسجد",
+                    "img": "mosque.jpg",
+                    "take": [1, 1]
+                },
+                {
+                    "id": 3,
+                    "type": "i-t-v",
+                    "ru": "дом",
+                    "ar": "بيت",
+                    "img": "house.jpg",
+                    "take": [1, 1]
+                },
+                {
+                    "id": 4,
+                    "type": "i-t-v",
+                    "ru": "ручка",
+                    "ar": "قلم",
+                    "img": "pen.jpg",
+                    "take": [1, 1]
+                },
+                {
+                    "id": 5,
+                    "type": "i-t-v",
+                    "ru": "ключ",
+                    "ar": "مفتاح",
+                    "img": "key.jpg",
+                    "take": [1, 1]
+                },
+                {
+                    "id": 6,
+                    "type": "i-t-v",
+                    "ru": "книга",
+                    "ar": "كتاب",
+                    "img": "book.jpg",
+                    "take": [1, 1]
+                },
+                {
+                    "id": 7,
+                    "type": "i-t-v",
+                    "ru": "стул",
+                    "ar": "كرسي",
+                    "img": "chair.jpg",
+                    "take": [1, 1]
+                },
+                {
+                    "id": 8,
+                    "type": "i-t-v",
+                    "ru": "письменный стол",
+                    "ar": "مكتب",
+                    "img": "desk.jpg",
+                    "take": [1, 1]
+                },
+                {
+                    "id": 9,
+                    "type": "i-t-v",
+                    "ru": "кровать",
+                    "ar": "سرير",
+                    "img": "bed.jpg",
+                    "take": [1, 1]
+                }
+            ]
+        }
+    ]
+}
