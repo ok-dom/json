@@ -99,7 +99,7 @@
         },
         {
             "title": "ما هذا",
-            "columns": 1,
+            "columns": 4,
             "blocks": [
                 {
                     "id": 1,
@@ -107,7 +107,7 @@
                     "text": "هذا باب",
                     "img": "door.jpg",
                     "take": [
-                        1,
+                        4,
                         1
                     ]
                 },
