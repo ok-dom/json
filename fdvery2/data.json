@@ -1,224 +1,175 @@
 {
-    "categories": [
-        {
-            "id": 1,
-            "name": "Салаты",
-            "icon": "Salads"
-        },
-        {
-            "id": 2,
-            "name": "Основные блюда",
-            "icon": "DominosPizza"
-        },
-        {
-            "id": 3,
-            "name": "Десерты",
-            "icon": "McDonald"
-        },
-        {
-            "id": 4,
-            "name": "Напитки",
-            "icon": "BurgerKing"
-        },
-        {
-            "id": 5,
-            "name": "Закуски",
-            "icon": "PizzaHut"
-        },
-        {
-            "id": 6,
-            "name": "Супы",
-            "icon": "Salads"
-        }
-    ],
-    "products": [
-        {
-            "id": 1,
-            "name": "Салат Цезарь",
-            "imageUrl": [
-                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/pizza.webp",
-                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/pizza2.webp",
-                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/pizza3.webp"
-            ],
-            "description": "Классический салат Цезарь с курицей, пармезаном и соусом Цезарь.",
-            "price": 350,
-            "categoryId": 1
-        },
-        {
-            "id": 2,
-            "name": "Греческий салат",
-            "imageUrl": [
-                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/coffee.webp",
-                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/coffee.webp",
-                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/pizza.webp"
-            ],
-            "description": "Свежий салат с помидорами, огурцами, оливками, фетой и орегано.",
-            "price": 280,
-            "categoryId": 1
-        },
-        {
-            "id": 3,
-            "name": "Салат с лососем",
-            "imageUrl": [
-                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/dessert.webp",
-                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/pizza.webp",
-                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/coffee.webp"
-            ],
-            "description": "Салат с маринованным лососем, авокадо, огурцами и соусом на основе йогурта.",
-            "price": 450,
-            "categoryId": 1
-        },
-        {
-            "id": 4,
-            "name": "Салат с курицей и авокадо",
-            "imageUrl": [
-                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/fruit.webp"
-            ],
-            "description": "Салат с куриной грудкой, авокадо, помидорами черри и соусом на основе оливкового масла.",
-            "price": 380,
-            "categoryId": 1
-        },
-        {
-            "id": 5,
-            "name": "Салат с креветками",
-            "imageUrl": [
-                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/coffee1.webp",
-                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/coffee2.webp",
-                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/coffee3.webp"
-            ],
-            "description": "Салат с креветками, авокадо, помидорами и соусом на основе лимонного сока.",
-            "price": 420,
-            "categoryId": 1
-        },
-        {
-            "id": 6,
-            "name": "Салат с тунцом",
-            "imageUrl": [
-                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/fruit.webp"
-            ],
-            "description": "Салат с тунцом, огурцами, помидорами и соусом на основе майонеза.",
-            "price": 320,
-            "categoryId": 1
-        },
-        {
-            "id": 7,
-            "name": "Стейк из говядины",
-            "imageUrl": [
-                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/fruit.webp"
-            ],
-            "description": "Сочный стейк из говядины, приготовленный на гриле с гарниром из овощей.",
-            "price": 850,
-            "categoryId": 2
-        },
-        {
-            "id": 8,
-            "name": "Курица с картофелем",
-            "imageUrl": [
-                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/fruit.webp"
-            ],
-            "description": "Запеченная курица с картофелем, приправленная травами и специями.",
-            "price": 450,
-            "categoryId": 2
-        },
-        {
-            "id": 9,
-            "name": "Лосось на гриле",
-            "imageUrl": [
-                "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/foodvery/fruit.webp"
-            ],
-            "description": "Филе лосося, приготовленное на гриле с лимонным соусом и гарниром из свежих овощей.",
-            "price": 700,
-            "categoryId": 2
-        },
-        {
-            "id": 10,
-            "name": "Паста Карбонара",
-            "imageUrl": [
-                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
-            ],
-            "description": "Классическая итальянская паста с беконом, яйцами и пармезаном.",
-            "price": 380,
-            "categoryId": 2
-        },
-        {
-            "id": 11,
-            "name": "Котлеты из индейки",
-            "imageUrl": [
-                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
-            ],
-            "description": "Сочные котлеты из индейки с гарниром из картофельного пюре и свежих овощей.",
-            "price": 420,
-            "categoryId": 2
-        },
-        {
-            "id": 12,
-            "name": "Рыба с овощами",
-            "imageUrl": [
-                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
-            ],
-            "description": "Запеченная рыба с гарниром из свежих овощей и лимонным соусом.",
-            "price": 550,
-            "categoryId": 2
-        },
-        {
-            "id": 13,
-            "name": "Тирамису",
-            "imageUrl": [
-                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
-            ],
-            "description": "Классический итальянский десерт с маскарпоне, кофе и савоярди.",
-            "price": 300,
-            "categoryId": 3
-        },
-        {
-            "id": 14,
-            "name": "Шоколадный торт",
-            "imageUrl": [
-                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
-            ],
-            "description": "Пышный шоколадный торт с кремом и шоколадной глазурью.",
-            "price": 250,
-            "categoryId": 3
-        },
-        {
-            "id": 15,
-            "name": "Фруктовый салат",
-            "imageUrl": [
-                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
-            ],
-            "description": "Свежий салат из сезонных фруктов с медовым соусом.",
-            "price": 200,
-            "categoryId": 3
-        },
-        {
-            "id": 16,
-            "name": "Панна котта",
-            "imageUrl": [
-                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
-            ],
-            "description": "Итальянский десерт из заварного крема с ягодным соусом.",
-            "price": 280,
-            "categoryId": 3
-        },
-        {
-            "id": 17,
-            "name": "Чизкейк",
-            "imageUrl": [
-                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
-            ],
-            "description": "Нежный чизкейк с клубничным джемом и песочным основанием.",
-            "price": 320,
-            "categoryId": 3
-        },
-        {
-            "id": 18,
-            "name": "Эклеры",
-            "imageUrl": [
-                "https://image.fonwall.ru/o/cb/sandwich-salad-fast-food-food.jpeg?auto=compress&fit=resize&w=500&h=500&display=large&domain=img3.fonwall.ru"
-            ],
-            "description": "Французские эклеры с заварным кремом и шоколадной глазурью.",
-            "price": 270,
-            "categoryId": 3
-        }
-    ]
+  "categories": [
+    {
+      "id": 1,
+      "name": "Салаты"
+    },
+    {
+      "id": 2,
+      "name": "Супы"
+    },
+    {
+      "id": 3,
+      "name": "Основные блюда"
+    },
+    {
+      "id": 4,
+      "name": "Десерты"
+    },
+    {
+      "id": 5,
+      "name": "Закуски"
+    },
+    {
+      "id": 6,
+      "name": "Напитки"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Салат Цезарь",
+      "description": "Классический салат с курицей, пармезаном и соусом Цезарь",
+      "price": 350.00,
+      "image": "http://127.0.0.1:8000/storage/default/food-e/Salat_Cezar.webp",
+      "category_id": 1,
+      "discount": 0,
+      "start_show": "2025-01-15T00:00:00",
+      "qt": 1
+    },
+    {
+      "id": 2,
+      "name": "Греческий салат",
+      "description": "Салат с помидорами, огурцами, фетой и оливками",
+      "price": 250.00,
+      "image": "http://127.0.0.1:8000/storage/default/food-e/Grecheskiy_salat.webp",
+      "category_id": 1,
+      "discount": 0,
+      "start_show": "2025-01-15T00:00:00",
+      "qt": 1
+    },
+    {
+      "id": 3,
+      "name": "Салат с тунцом",
+      "description": "Салат с тунцом, яйцами, оливками и зеленью",
+      "price": 400.00,
+      "image": "http://127.0.0.1:8000/storage/default/food-e/Salat_s_tuntsom.webp",
+      "category_id": 1,
+      "discount": 0,
+      "start_show": "2025-01-15T00:00:00",
+      "qt": 1
+    },
+    {
+      "id": 4,
+      "name": "Салат с авокадо",
+      "description": "Салат с авокадо, креветками и лимонным соусом",
+      "price": 450.00,
+      "image": "http://127.0.0.1:8000/storage/default/food-e/Salat_s_avokado.webp",
+      "category_id": 1,
+      "discount": 0,
+      "start_show": "2025-01-15T00:00:00",
+      "qt": 1
+    },
+    {
+      "id": 5,
+      "name": "Салат с курицей и ананасом",
+      "description": "Салат с курицей, ананасом и медово-горчичным соусом",
+      "price": 380.00,
+      "image": "http://127.0.0.1:8000/storage/default/food-e/Salat_s_kuritsey_i_ananasom.webp",
+      "category_id": 1,
+      "discount": 0,
+      "start_show": "2025-01-15T00:00:00",
+      "qt": 1
+    },
+    {
+      "id": 6,
+      "name": "Салат с лососем",
+      "description": "Салат с лососем, авокадо и соевым соусом",
+      "price": 500.00,
+      "image": "http://127.0.0.1:8000/storage/default/food-e/Salat_s_lososem.webp",
+      "category_id": 1,
+      "discount": 0,
+      "start_show": "2025-01-15T00:00:00",
+      "qt": 1
+    },
+    {
+      "id": 7,
+      "name": "Борщ",
+      "description": "Традиционный украинский борщ с мясом и сметаной",
+      "price": 200.00,
+      "image": "http://127.0.0.1:8000/storage/default/food-e/Borsh.webp",
+      "category_id": 2,
+      "discount": 0,
+      "start_show": "2025-01-15T00:00:00",
+      "qt": 1
+    },
+    {
+      "id": 8,
+      "name": "Солянка",
+      "description": "Острый суп с мясом, колбасой и оливками",
+      "price": 250.00,
+      "image": "http://127.0.0.1:8000/storage/default/food-e/Solyanka.webp",
+      "category_id": 2,
+      "discount": 0,
+      "start_show": "2025-01-15T00:00:00",
+      "qt": 1
+    },
+    {
+      "id": 9,
+      "name": "Щи",
+      "description": "Русский суп из капусты и мяса",
+      "price": 180.00,
+      "image": "http://127.0.0.1:8000/storage/default/food-e/Shchi.webp",
+      "category_id": 2,
+      "discount": 0,
+      "start_show": "2025-01-15T00:00:00",
+      "qt": 1
+    },
+    {
+      "id": 10,
+      "name": "Куриный суп",
+      "description": "Легкий суп с курицей и овощами",
+      "price": 220.00,
+      "image": "http://127.0.0.1:8000/storage/default/food-e/Kuriniy_sup.webp",
+      "category_id": 2,
+      "discount": 0,
+      "start_show": "2025-01-15T00:00:00",
+      "qt": 1
+    },
+    {
+      "id": 11,
+      "name": "Грибной суп",
+      "description": "Суп с грибами и сливками",
+      "price": 280.00,
+      "image": "http://127.0.0.1:8000/storage/default/food-e/Gribnoy_sup.webp",
+      "category_id": 2,
+      "discount": 0,
+      "start_show": "2025-01-15T00:00:00",
+      "qt": 1
+    },
+    {
+      "id": 12,
+      "name": "Томатный суп",
+      "description": "Суп с томатами и базиликом",
+      "price": 190.00,
+      "image": "http://127.0.0.1:8000/storage/default/food-e/Tomatniy_sup.webp",
+      "category_id": 2,
+      "discount": 0,
+      "start_show": "2025-01-15T00:00:00",
+      "qt": 1
+    }
+  ],
+  "promotions": [
+    {
+      "id": 13,
+      "name": "Summer Sale",
+      "image": "summer_sale.jpg",
+      "description": "Get up to 50% off on all summer items!",
+      "price": 199.99,
+      "category_id": 0,
+      "discount": 50,
+      "start_show": "2023-06-01T00:00:00",
+      "qt": 1
+    }
+  ]
 }
