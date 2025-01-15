@@ -33,8 +33,6 @@
       "price": 350.00,
       "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/fdvery2/Salat_Cezar.webp",
       "category_id": 1,
-      "discount": 0,
-      "start_show": "2025-01-15T00:00:00",
       "qt": 1
     },
     {
@@ -44,8 +42,6 @@
       "price": 250.00,
       "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/fdvery2/Grecheskiy_salat.webp",
       "category_id": 1,
-      "discount": 0,
-      "start_show": "2025-01-15T00:00:00",
       "qt": 1
     },
     {
@@ -55,8 +51,6 @@
       "price": 400.00,
       "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/fdvery2/Salat_s_tuntsom.webp",
       "category_id": 1,
-      "discount": 0,
-      "start_show": "2025-01-15T00:00:00",
       "qt": 1
     },
     {
@@ -66,8 +60,6 @@
       "price": 450.00,
       "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/fdvery2/Salat_s_avokado.webp",
       "category_id": 1,
-      "discount": 0,
-      "start_show": "2025-01-15T00:00:00",
       "qt": 1
     },
     {
@@ -77,8 +69,6 @@
       "price": 380.00,
       "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/fdvery2/Salat_s_kuritsey_i_ananasom.webp",
       "category_id": 1,
-      "discount": 0,
-      "start_show": "2025-01-15T00:00:00",
       "qt": 1
     },
     {
@@ -88,8 +78,6 @@
       "price": 500.00,
       "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/fdvery2/Salat_s_lososem.webp",
       "category_id": 1,
-      "discount": 0,
-      "start_show": "2025-01-15T00:00:00",
       "qt": 1
     },
     {
@@ -99,8 +87,6 @@
       "price": 200.00,
       "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/fdvery2/Borsh.webp",
       "category_id": 2,
-      "discount": 0,
-      "start_show": "2025-01-15T00:00:00",
       "qt": 1
     },
     {
@@ -110,8 +96,6 @@
       "price": 250.00,
       "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/fdvery2/Solyanka.webp",
       "category_id": 2,
-      "discount": 0,
-      "start_show": "2025-01-15T00:00:00",
       "qt": 1
     },
     {
@@ -121,8 +105,6 @@
       "price": 180.00,
       "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/fdvery2/Shchi.webp",
       "category_id": 2,
-      "discount": 0,
-      "start_show": "2025-01-15T00:00:00",
       "qt": 1
     },
     {
@@ -132,8 +114,6 @@
       "price": 220.00,
       "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/fdvery2/Kuriniy_sup.webp",
       "category_id": 2,
-      "discount": 0,
-      "start_show": "2025-01-15T00:00:00",
       "qt": 1
     },
     {
@@ -143,8 +123,6 @@
       "price": 280.00,
       "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/fdvery2/Gribnoy_sup.webp",
       "category_id": 2,
-      "discount": 0,
-      "start_show": "2025-01-15T00:00:00",
       "qt": 1
     },
     {
@@ -154,8 +132,6 @@
       "price": 190.00,
       "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/fdvery2/Tomatniy_sup.webp",
       "category_id": 2,
-      "discount": 0,
-      "start_show": "2025-01-15T00:00:00",
       "qt": 1
     }
   ],
@@ -166,10 +142,9 @@
       "image": "summer_sale.jpg",
       "description": "Get up to 50% off on all summer items!",
       "price": 199.99,
-      "category_id": 0,
       "discount": 50,
-      "start_show": "2023-06-01T00:00:00",
-      "qt": 1
+      "start_show": "2023-06-01T00:00:00"
     }
   ]
 }
+
