@@ -139,7 +139,7 @@
     {
       "id": 13,
       "name": "Summer Sale",
-      "image": "summer_sale.jpg",
+      "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/fdvery2/Детское-меню_928х600.webp",
       "description": "Get up to 50% off on all summer items!",
       "price": 199.99,
       "discount": 50,
