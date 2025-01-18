@@ -135,16 +135,58 @@
       "qt": 1
     }
   ],
+  "recommended": [
+    {
+      "id": 5,
+      "name": "Салат с курицей и ананасом",
+      "description": "Салат с курицей, ананасом и медово-горчичным соусом",
+      "price": 380.00,
+      "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/fdvery2/Salat_s_kuritsey_i_ananasom.webp",
+      "qt": 1
+    },
+    {
+      "id": 6,
+      "name": "Салат с лососем",
+      "description": "Салат с лососем, авокадо и соевым соусом",
+      "price": 500.00,
+      "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/fdvery2/Salat_s_lososem.webp",
+      "qt": 1
+    },
+    {
+      "id": 7,
+      "name": "Борщ",
+      "description": "Традиционный украинский борщ с мясом и сметаной",
+      "price": 200.00,
+      "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/fdvery2/Borsh.webp",
+      "qt": 1
+    },
+    {
+      "id": 8,
+      "name": "Солянка",
+      "description": "Острый суп с мясом, колбасой и оливками",
+      "price": 250.00,
+      "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/fdvery2/Solyanka.webp",
+      "qt": 1
+    }
+  ],
   "promotions": [
     {
-      "id": 13,
+      "id": 78,
       "name": "Summer Sale",
       "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/fdvery2/вк_нам_скидка_на_ужин_928х600.webp",
-      "description": "Get up to 50% off on all summer items!",
+      "description": "Get up to 15% off on all summer items!",
       "price": 199.99,
-      "discount": 50,
+      "discount": 15,
       "start_show": "2023-06-01T00:00:00"
+    },
+	{
+      "id": 79,
+      "name": "Summer Sale",
+      "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/fdvery2/Детское-меню_928х600.webp",
+      "description": "Get up to 50% off on all summer items!",
+      "price": 299.99,
+      "discount": 50,
+      "start_show": "2023-27-01T00:00:00"
     }
   ]
 }
-
