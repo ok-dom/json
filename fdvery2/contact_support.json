@@ -4,7 +4,8 @@
   "whatsappNumber": "+1234567890",
   "address": "123 Main St, Anytown, USA",
   "working": {
-    "daysOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
-    "workingHours": "8:00 - 21:00"
+    "workingHours": "9:00 AM - 5:00 PM",
+    "weekends": ["Saturday", "Sunday"]
   }
 }
+
