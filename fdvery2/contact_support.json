@@ -1,7 +1,10 @@
 {
-  "phoneNumber": "+79637069638",
-  "emailAddress": "seemenu.ru@gmail.com",
-  "whatsappNumber": "+79637069638",
-  "address": "123 Main St, Anytown, USA"
+  "phoneNumber": "+1234567890",
+  "emailAddress": "support@example.com",
+  "whatsappNumber": "+1234567890",
+  "address": "123 Main St, Anytown, USA",
+  "working": {
+    "daysOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "workingHours": "8:00 - 21:00"
+  }
 }
-
