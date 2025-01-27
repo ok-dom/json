@@ -9,9 +9,9 @@
     "end": "18:00"
   },
   "weekends": {
-    "friday": "1",
-    "saturday": "0",
-    "sunday": "0"
+    "friday": true,
+    "saturday": false,
+    "sunday": false
   }
 }
 
