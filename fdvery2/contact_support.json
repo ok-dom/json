@@ -1,17 +1,18 @@
 {
-  "id": 1,
-  "phoneNumber": "+1234567890",
-  "emailAddress": "support@example.com",
-  "whatsappNumber": "+0987654321",
-  "address": "123 Main St, Anytown, USA",
-  "workingHours": {
-    "start": "09:00",
-    "end": "18:00"
-  },
-  "weekends": {
-    "friday": true,
-    "saturday": false,
-    "sunday": false
-  }
+    "id": 1,
+    "phoneNumber": "89640626525",
+    "emailAddress": "seemenu.ru@gmail.com",
+    "whatsappNumber": null,
+    "address": "Nadterechnaya street 7",
+    "weekends": {
+        "friday": "0",
+        "saturday": "1",
+        "sunday": "0"
+    },
+    "workingHours": {
+        "start": "08:00",
+        "end": "21:00"
+    },
+    "created_at": "2025-01-27T20:20:41.000000Z",
+    "updated_at": "2025-01-27T20:21:12.000000Z"
 }
-
