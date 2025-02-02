@@ -5,9 +5,9 @@
     "whatsappNumber": null,
     "address": "Nadterechnaya street 7",
     "weekends": {
-        "friday": "1",
-        "saturday": "1",
-        "sunday": "1"
+        "friday": "0",
+        "saturday": "0",
+        "sunday": "0"
     },
     "workingHours": {
         "start": "10:00",
