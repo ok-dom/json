@@ -2,7 +2,7 @@
     "id": 1,
     "phoneNumber": "+7 (963) 706-96-38",
     "emailAddress": "seemenu.ru@gmail.com",
-    "whatsappNumber": null,
+    "whatsappNumber": "+7 (963) 706-96-38",
     "address": "Nadterechnaya street 7",
     "weekends": {
         "friday": "0",
