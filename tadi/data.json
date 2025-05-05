@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "price": 1500,
+    "title": "Гидратирующий крем",
+    "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/tadi/MSSE-Product-Image.webp",
+    "subTitle": "Увлажняющий крем для лица",
+    "description": "Крем для ежедневного ухода, обеспечивающий глубокое увлажнение кожи."
+  },
+  {
+    "id": "2",
+    "price": 2000,
+    "title": "Сыворотка с витамином C",
+    "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/tadi/MSSE-Product-Image.webp",
+    "subTitle": "Осветляющая сыворотка",
+    "description": "Сыворотка, содержащая витамин C для осветления и выравнивания тона кожи."
+  },
+  {
+    "id": "3",
+    "price": 1200,
+    "title": "Очищающий гель",
+    "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/tadi/MSSE-Product-Image.webp",
+    "subTitle": "Гель для умывания",
+    "description": "Мягкий очищающий гель, подходящий для всех типов кожи."
+  },
+  {
+    "id": "4",
+    "price": 1800,
+    "title": "Маска для лица",
+    "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/tadi/MSSE-Product-Image.webp",
+    "subTitle": "Увлажняющая маска",
+    "description": "Маска для глубокого увлажнения и питания кожи лица."
+  },
+  {
+    "id": "5",
+    "price": 2500,
+    "title": "Крем для глаз",
+    "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/tadi/MSSE-Product-Image.webp",
+    "subTitle": "Антивозрастной крем",
+    "description": "Крем для области вокруг глаз, уменьшающий признаки усталости и возрастные изменения."
+  },
+  {
+    "id": "6",
+    "price": 1700,
+    "title": "Тоник для лица",
+    "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/tadi/MSSE-Product-Image.webp",
+    "subTitle": "Освежающий тоник",
+    "description": "Тоник для увлажнения и подготовки кожи к нанесению уходовых средств."
+  },
+  {
+    "id": "7",
+    "price": 2200,
+    "title": "Скраб для лица",
+    "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/tadi/MSSE-Product-Image.webp",
+    "subTitle": "Очищающий скраб",
+    "description": "Скраб для глубокого очищения и отшелушивания омертвевших клеток кожи."
+  },
+  {
+    "id": "8",
+    "price": 1300,
+    "title": "Бальзам для губ",
+    "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/tadi/MSSE-Product-Image.webp",
+    "subTitle": "Увлажняющий бальзам",
+    "description": "Бальзам для увлажнения и защиты губ от сухости."
+  },
+  {
+    "id": "9",
+    "price": 1900,
+    "title": "Солнцезащитный крем",
+    "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/tadi/MSSE-Product-Image.webp",
+    "subTitle": "Крем с SPF 50",
+    "description": "Солнцезащитный крем для защиты кожи от ультрафиолетовых лучей."
+  },
+  {
+    "id": "10",
+    "price": 2300,
+    "title": "Ночной крем",
+    "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/tadi/MSSE-Product-Image.webp",
+    "subTitle": "Регенерирующий крем",
+    "description": "Крем для ночного ухода, способствующий регенерации кожи."
+  },
+  {
+    "id": "11",
+    "price": 1600,
+    "title": "Мицеллярная вода",
+    "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/tadi/MSSE-Product-Image.webp",
+    "subTitle": "Очищающая вода",
+    "description": "Мицеллярная вода для бережного очищения кожи."
+  },
+  {
+    "id": "12",
+    "price": 2100,
+    "title": "Масло для лица",
+    "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/tadi/MSSE-Product-Image.webp",
+    "subTitle": "Питательное масло",
+    "description": "Масло для интенсивного питания и увлажнения кожи лица."
+  }
+]
