@@ -1,98 +1,99 @@
-[
-  {
-    "id": "1",
-    "price": 1500,
-    "title": "Гидратирующий крем",
-    "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/tadi/MSSE-Product-Image.webp",
-    "subTitle": "Увлажняющий крем для лица",
-    "description": "Крем для ежедневного ухода, обеспечивающий глубокое увлажнение кожи."
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Увлажняющий лосьон для загара SPF 30",
+      "tan_type": "Моментальный загар",
+      "price": 1500,
+      "description": "Легкий лосьон с естественным эффектом загара и увлажняющими компонентами.",
+      "composition": "Aqua, Dihydroxyacetone, Aloe Vera, Glycerin",
+      "skin_type": "Для всех типов кожи",
+      "volume": "200 мл",
+      "expiration_date": "12.2025",
+      "image_names": "https://eu.balibodyco.com/cdn/shop/files/MSSE-Product-Image.jpg?v=1730434424&width=493,https://eu.balibodyco.com/cdn/shop/files/remover.jpg?v=1733290999&width=493,https://eu.balibodyco.com/cdn/shop/files/WHIP_4392d03b-3e01-4369-9d13-c253cc97da72.jpg?v=1701646006&width=493",
+      "images": [
+        "https://eu.balibodyco.com/cdn/shop/files/MSSE-Product-Image.jpg?v=1730434424&width=493",
+        "https://eu.balibodyco.com/cdn/shop/files/remover.jpg?v=1733290999&width=493",
+        "https://eu.balibodyco.com/cdn/shop/files/WHIP_4392d03b-3e01-4369-9d13-c253cc97da72.jpg?v=1701646006&width=493"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Мгновенный бронзант для лица",
+      "tan_type": "Естественный загар",
+      "price": 2200,
+      "description": "Средство для моментального эффекта загара с мерцающими частицами.",
+      "composition": "Water, Mica, Erythrulose, Caramel",
+      "skin_type": "Для сухой и нормальной кожи",
+      "volume": "50 мл",
+      "expiration_date": "10.2024",
+      "image_names": "https://eu.balibodyco.com/cdn/shop/files/MSSE-Product-Image.jpg?v=1730434424&width=493,https://eu.balibodyco.com/cdn/shop/files/remover.jpg?v=1733290999&width=493,https://eu.balibodyco.com/cdn/shop/files/WHIP_4392d03b-3e01-4369-9d13-c253cc97da72.jpg?v=1701646006&width=493,https://eu.balibodyco.com/cdn/shop/files/Clinical-Testing.jpg?v=1727330043&width=493",
+      "images": [
+        "https://eu.balibodyco.com/cdn/shop/files/MSSE-Product-Image.jpg?v=1730434424&width=493",
+        "https://eu.balibodyco.com/cdn/shop/files/remover.jpg?v=1733290999&width=493",
+        "https://eu.balibodyco.com/cdn/shop/files/WHIP_4392d03b-3e01-4369-9d13-c253cc97da72.jpg?v=1701646006&width=493",
+        "https://eu.balibodyco.com/cdn/shop/files/Clinical-Testing.jpg?v=1727330043&width=493"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Спрей для тела «Тропический загар»",
+      "tan_type": "Моментальный загар",
+      "price": 1800,
+      "description": "Равномерное нанесение без разводов, стойкий результат до 7 дней.",
+      "composition": "Alcohol Denat, DHA, Coconut Oil, Fragrance",
+      "skin_type": "Для всех типов кожи",
+      "volume": "150 мл",
+      "expiration_date": "05.2025",
+      "image_names": "https://eu.balibodyco.com/cdn/shop/files/MSSE-Product-Image.jpg?v=1730434424&width=493",
+      "images": [
+        "https://eu.balibodyco.com/cdn/shop/files/MSSE-Product-Image.jpg?v=1730434424&width=493"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Крем для усиления загара с SPF 15",
+      "tan_type": "Естественный загар",
+      "price": 1300,
+      "description": "Подготавливает кожу к загару, увлажняет и защищает от UV-лучей.",
+      "composition": "Octinoxate, Octocrylene, Shea Butter, Vitamin E",
+      "skin_type": "Для чувствительной кожи",
+      "volume": "100 мл",
+      "expiration_date": "08.2024",
+      "image_names": "https://eu.balibodyco.com/cdn/shop/files/MSSE-Product-Image.jpg?v=1730434424&width=493,https://eu.balibodyco.com/cdn/shop/files/remover.jpg?v=1733290999&width=493",
+      "images": [
+        "https://eu.balibodyco.com/cdn/shop/files/MSSE-Product-Image.jpg?v=1730434424&width=493",
+        "https://eu.balibodyco.com/cdn/shop/files/remover.jpg?v=1733290999&width=493"
+      ]
+    }
+  ],
+  "contact": {
+    "phone": "+7 (999) 123-45-67",
+    "whatsapp": "+7 (999) 123-45-67",
+    "email": "info@suncosmetic.ru",
+    "telegram": "@suncosmetic_support",
+    "address": "г. Москва, ул. Солнечная, д. 10, офис 25"
   },
-  {
-    "id": "2",
-    "price": 2000,
-    "title": "Сыворотка с витамином C",
-    "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/tadi/MSSE-Product-Image.webp",
-    "subTitle": "Осветляющая сыворотка",
-    "description": "Сыворотка, содержащая витамин C для осветления и выравнивания тона кожи."
-  },
-  {
-    "id": "3",
-    "price": 1200,
-    "title": "Очищающий гель",
-    "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/tadi/MSSE-Product-Image.webp",
-    "subTitle": "Гель для умывания",
-    "description": "Мягкий очищающий гель, подходящий для всех типов кожи."
-  },
-  {
-    "id": "4",
-    "price": 1800,
-    "title": "Маска для лица",
-    "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/tadi/MSSE-Product-Image.webp",
-    "subTitle": "Увлажняющая маска",
-    "description": "Маска для глубокого увлажнения и питания кожи лица."
-  },
-  {
-    "id": "5",
-    "price": 2500,
-    "title": "Крем для глаз",
-    "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/tadi/MSSE-Product-Image.webp",
-    "subTitle": "Антивозрастной крем",
-    "description": "Крем для области вокруг глаз, уменьшающий признаки усталости и возрастные изменения."
-  },
-  {
-    "id": "6",
-    "price": 1700,
-    "title": "Тоник для лица",
-    "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/tadi/MSSE-Product-Image.webp",
-    "subTitle": "Освежающий тоник",
-    "description": "Тоник для увлажнения и подготовки кожи к нанесению уходовых средств."
-  },
-  {
-    "id": "7",
-    "price": 2200,
-    "title": "Скраб для лица",
-    "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/tadi/MSSE-Product-Image.webp",
-    "subTitle": "Очищающий скраб",
-    "description": "Скраб для глубокого очищения и отшелушивания омертвевших клеток кожи."
-  },
-  {
-    "id": "8",
-    "price": 1300,
-    "title": "Бальзам для губ",
-    "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/tadi/MSSE-Product-Image.webp",
-    "subTitle": "Увлажняющий бальзам",
-    "description": "Бальзам для увлажнения и защиты губ от сухости."
-  },
-  {
-    "id": "9",
-    "price": 1900,
-    "title": "Солнцезащитный крем",
-    "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/tadi/MSSE-Product-Image.webp",
-    "subTitle": "Крем с SPF 50",
-    "description": "Солнцезащитный крем для защиты кожи от ультрафиолетовых лучей."
-  },
-  {
-    "id": "10",
-    "price": 2300,
-    "title": "Ночной крем",
-    "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/tadi/MSSE-Product-Image.webp",
-    "subTitle": "Регенерирующий крем",
-    "description": "Крем для ночного ухода, способствующий регенерации кожи."
-  },
-  {
-    "id": "11",
-    "price": 1600,
-    "title": "Мицеллярная вода",
-    "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/tadi/MSSE-Product-Image.webp",
-    "subTitle": "Очищающая вода",
-    "description": "Мицеллярная вода для бережного очищения кожи."
-  },
-  {
-    "id": "12",
-    "price": 2100,
-    "title": "Масло для лица",
-    "image": "https://raw.githubusercontent.com/ok-dom/images/refs/heads/main/tadi/MSSE-Product-Image.webp",
-    "subTitle": "Питательное масло",
-    "description": "Масло для интенсивного питания и увлажнения кожи лица."
-  }
-]
+  "faqs": [
+    {
+      "id": 1,
+      "question": "Как правильно наносить автозагар?",
+      "answer": "Перед нанесением сделайте пилинг кожи, наносите средство круговыми движениями без давления. Избегайте области бровей и волос."
+    },
+    {
+      "id": 2,
+      "question": "Сколько держится эффект автозагара?",
+      "answer": "Около 5–7 дней, в зависимости от типа кожи и ухода (избегайте скрабов и длительных водных процедур)."
+    },
+    {
+      "id": 3,
+      "question": "Можно ли использовать средство для лица?",
+      "answer": "Да, но только продукты с пометкой «Для лица» — они имеют более легкую текстуру и не забивают поры."
+    },
+    {
+      "id": 4,
+      "question": "Есть ли у вас доставка в регионы?",
+      "answer": "Да, отправляем по всей России транспортными компаниями (срок — от 2 до 7 дней)."
+    }
+  ]
+}
