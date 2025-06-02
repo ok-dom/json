@@ -1,0 +1,46 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "title": "Стейк Рибай",
+      "description": "Нежный стейк из мраморной говядины с розмарином и чесночным соусом",
+      "imageUrl": "https://example.com/images/ribeye.jpg",
+      "price": 1200
+    },
+    {
+      "id": 2,
+      "title": "Паста Карбонара",
+      "description": "Спагетти с соусом из бекона, сливок, пармезана и яичного желтка",
+      "imageUrl": "https://example.com/images/carbonara.jpg",
+      "price": 650
+    },
+    {
+      "id": 3,
+      "title": "Салат Цезарь",
+      "description": "Классический салат с куриной грудкой, листьями романо, пармезаном и соусом Цезарь",
+      "imageUrl": "https://example.com/images/caesar.jpg",
+      "price": 450
+    },
+    {
+      "id": 4,
+      "title": "Тирамису",
+      "description": "Итальянский десерт из печенья савоярди, кофе, сыра маскарпоне и какао",
+      "imageUrl": "https://example.com/images/tiramisu.jpg",
+      "price": 350
+    },
+    {
+      "id": 5,
+      "title": "Греческий салат",
+      "description": "Свежие овощи с оливками, сыром фета и оливковым маслом",
+      "imageUrl": "https://example.com/images/greek-salad.jpg",
+      "price": 400
+    },
+    {
+      "id": 6,
+      "title": "Бургер с говядиной",
+      "description": "Аппетитная котлета из говядины с сыром, салатом, помидором и соусом",
+      "imageUrl": "https://example.com/images/burger.jpg",
+      "price": 550
+    }
+  ]
+}
